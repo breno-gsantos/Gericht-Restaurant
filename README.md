@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Gericht Restaurant
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with Create React App.
 
 ## Overview
 
@@ -18,3 +18,17 @@ Restaurant Gericht is a website project for a fictional restaurant. It was devel
 - CSS
 - JavaScript
 - React
+
+## Instalation 
+
+This project was built in Create React App.
+
+1. Clone the repository:
+  https://github.com/winterlolxd/Gericht-Restaurant.git
+  
+2. Install the dependecies: 
+  npm install
+  
+3. Start the project:
+  npm start
+  
